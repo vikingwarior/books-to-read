@@ -1,6 +1,8 @@
 # books-to-read
 A list of books I plan to read
 
+Currently Reading: **"The Nightingale" by Kristin Hannah**
+
 ### Fiction (Engaging and Thought-Provoking)
 1. **"The Alchemist" by Paulo Coelho**  
    - A philosophical novel with themes of dreams, destiny, and self-discovery. It’s simple, poetic, and thought-provoking without being overtly motivational.
