@@ -1,7 +1,9 @@
-# books-to-read
-A list of books I plan to read
+# books-to-read: A list of books I plan to read
 
-Currently Reading: **"The Nightingale" by Kristin Hannah**
+
+## Currently Reading: **"The Nightingale" by Kristin Hannah**
+
+## Reading Tracker
 
 ### Fiction (Engaging and Thought-Provoking)
 1. **"The Alchemist" by Paulo Coelho**  
