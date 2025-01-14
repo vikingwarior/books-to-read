@@ -5,6 +5,8 @@
 
 ## Reading Tracker
 
+### Jan 2025: **"The Nightingale" by Kristin Hannah**
+
 ## Recommendations
 
 ### Fiction (Engaging and Thought-Provoking)
