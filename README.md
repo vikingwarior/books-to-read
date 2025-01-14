@@ -5,7 +5,8 @@
 
 ## Reading Tracker
 
-### Jan 2025: **"The Nightingale" by Kristin Hannah**
+#### 2025: 
+- **Jan: "The Nightingale" by Kristin Hannah**
 
 ## Recommendations
 
