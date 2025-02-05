@@ -6,8 +6,8 @@
 ## Reading Tracker
 
 #### 2025: 
-- **Jan: "The Nightingale" by Kristin Hannah**
-- **Feb: "How to Make Friends and Influence People" by Dale Carnegie"**
+- [x] **Jan: "The Nightingale" by Kristin Hannah**
+- [ ] **Feb: "How to Make Friends and Influence People" by Dale Carnegie"**
 
 ## Recommendations
 
