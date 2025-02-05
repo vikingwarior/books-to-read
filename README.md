@@ -38,23 +38,10 @@
 2. **"Interpreter of Maladies" by Jhumpa Lahiri**  
    - This collection of short stories focuses on themes of identity, culture, and the immigrant experience. Lahiri’s writing is accessible and beautifully poignant.
 
-### Science and Philosophy (Engaging and Thought-Provoking)
-1. **"Cosmos" by Carl Sagan**  
-   - A classic that explores the universe and our place in it. Sagan’s writing is clear and poetic, making complex ideas accessible and fascinating.
-
-2. **"The Art of Thinking Clearly" by Rolf Dobelli**  
-   - A collection of short chapters that explain common cognitive biases and fallacies. It's practical and offers value in understanding how we think, without being prescriptive.
-
-3. **"A Short History of Nearly Everything" by Bill Bryson**  
-   - An accessible science book that covers everything from the origins of the universe to the human body. It’s well-written, humorous, and provides a broad understanding of the world around us.
-
 ### Historical Fiction (Entertaining Yet Educational)
 ~~1. **"The Nightingale" by Kristin Hannah**~~
    - A gripping and emotional story set during World War II, focusing on the lives of two sisters in Nazi-occupied France. It’s both an entertaining and deeply emotional read.
    - Review: Mind boggling and touching, the novel is a work of art and has left me truely speechless, I was moved by the story and couldn't wrap my head around it until atleast a week after finishing the novel.
-
-2. **"All the Light We Cannot See" by Anthony Doerr**  
-   - A beautifully written novel set in World War II, following a blind French girl and a German soldier. It explores human resilience and the consequences of war.
 
 ### Self-Improvement (Practical and Insightful)
 1. **"Atomic Habits" by James Clear**  
@@ -71,8 +58,6 @@
    - A short yet profound philosophical essay that deals with the absurdity of life and how one might find meaning in an indifferent universe. Camus writes in an engaging, thought-provoking style.
 
 ### Graphic Novels (Accessible and Engaging)
-1. **"Maus" by Art Spiegelman**  
-   - A Pulitzer Prize-winning graphic novel that tells the story of the Holocaust through the eyes of the author’s father. It’s impactful, easy to read, and rich in history.
 
-2. **"Persepolis" by Marjane Satrapi**  
+1. **"Persepolis" by Marjane Satrapi**  
    - A poignant and powerful memoir in graphic novel form, depicting Satrapi’s childhood in Iran during and after the Islamic Revolution.
