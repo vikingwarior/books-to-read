@@ -7,6 +7,7 @@
 
 #### 2025: 
 - **Jan: "The Nightingale" by Kristin Hannah**
+- **Feb: "How to Make Friends and Influence People" by Dale Carnegie"**
 
 ## Recommendations
 
@@ -48,8 +49,9 @@
    - An accessible science book that covers everything from the origins of the universe to the human body. It’s well-written, humorous, and provides a broad understanding of the world around us.
 
 ### Historical Fiction (Entertaining Yet Educational)
-1. **"The Nightingale" by Kristin Hannah**  
+~~1. **"The Nightingale" by Kristin Hannah**~~
    - A gripping and emotional story set during World War II, focusing on the lives of two sisters in Nazi-occupied France. It’s both an entertaining and deeply emotional read.
+   - Review: Mind boggling and touching, the novel is a work of art and has left me truely speechless, I was moved by the story and couldn't wrap my head around it until atleast a week after finishing the novel.
 
 2. **"All the Light We Cannot See" by Anthony Doerr**  
    - A beautifully written novel set in World War II, following a blind French girl and a German soldier. It explores human resilience and the consequences of war.
